@@ -1,0 +1,9 @@
+G:\Documents\GitHub\greenbot\greenbot\bin\Debug\greenbot.exe
+G:\Documents\GitHub\greenbot\greenbot\bin\Debug\greenbot.pdb
+G:\Documents\GitHub\greenbot\greenbot\bin\Debug\greenbot.xml
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.Form1.resources
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.Resources.resources
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.vbproj.GenerateResource.Cache
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.exe
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.xml
+G:\Documents\GitHub\greenbot\greenbot\obj\x86\Debug\greenbot.pdb
