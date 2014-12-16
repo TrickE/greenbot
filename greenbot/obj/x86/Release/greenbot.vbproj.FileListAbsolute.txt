@@ -1,9 +1,0 @@
-G:\Documents\GitHub\greenbot\greenbot\bin\Release\greenbot.exe
-G:\Documents\GitHub\greenbot\greenbot\bin\Release\greenbot.pdb
-G:\Documents\GitHub\greenbot\greenbot\bin\Release\greenbot.xml
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.Form1.resources
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.Resources.resources
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.vbproj.GenerateResource.Cache
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.exe
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.xml
-G:\Documents\GitHub\greenbot\greenbot\obj\x86\Release\greenbot.pdb
